@@ -14,7 +14,7 @@ To analyze the availability of clean water, functionality of water points, sanit
 
 ---
 
-## 🗂️ Table Columns
+## Table Columns
 
 To improve readability and SQL accessibility, several columns were renamed. For example:
 - `Water Availability (liters per capita per day)` → `water_availability`
@@ -25,7 +25,7 @@ To improve readability and SQL accessibility, several columns were renamed. For 
 
 ---
 
-## 🔍 Key SQL Queries & Insights
+## Key SQL Queries & Insights
 
 | Query | Insight |
 |-------|--------|
